@@ -1,6 +1,6 @@
 clc, clear, close all, format short, format compact
 
-% Peter Erasmus, 30054537
+% Peter Erasmus
 % ENME 337 Final Project
 % 
 
